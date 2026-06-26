@@ -135,6 +135,13 @@ All four external factors show **extremely weak correlations** with weekly sales
 
 ---
 
+## DATA SOURCE
+
+> Yasser H. (2022). *Walmart Dataset*. Kaggle.
+>  [https://www.kaggle.com/datasets/yasserh/walmart-dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+
+---
+
 ## About the Author
 
 **Emeka Victor Prince**
