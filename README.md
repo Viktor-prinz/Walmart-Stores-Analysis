@@ -31,7 +31,7 @@ Walmart runs several promotional markdown events throughout the year. These mark
 ![Executive Overview](Overview.jpg)
 
 ### Page 2 — Store Metrics
-![Store Metrics](StoreMetrics.jpg)
+![Store Metrics](StoreMetrics.png)
 
 ### Page 3 — Holidays & Trends
 ![Holidays and Trends](Holidays&Trends.jpg)
