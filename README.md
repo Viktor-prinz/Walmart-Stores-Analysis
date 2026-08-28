@@ -87,7 +87,7 @@ All four external factors show **extremely weak correlations** with weekly sales
 | Temperature | −0.0638 | Weak negative |
 | Fuel Price | +0.0095 | Essentially zero |
 
-- **Unemployment** is the strongest factor — barely. An r of −0.11 means unemployment explains approximately 1.1% of the variation in weekly sales
+- **Unemployment** is the strongest factor; barely. An r of −0.11 means unemployment explains approximately 1.1% of the variation in weekly sales
 - **Fuel price** has virtually no relationship with sales within the $2.47–$4.47 range observed in this dataset
 - **CPI**: The 45 stores are split into two distinct market clusters: 22 stores at CPI ≈ 128–140 (lower cost-of-living markets) and 23 stores at CPI ≈ 186–227 (higher cost-of-living markets), with no overlap in between.
 
