@@ -89,7 +89,7 @@ All four external factors show **extremely weak correlations** with weekly sales
 
 - **Unemployment** is the strongest factor — barely. An r of −0.11 means unemployment explains approximately 1.1% of the variation in weekly sales
 - **Fuel price** has virtually no relationship with sales within the $2.47–$4.47 range observed in this dataset
-- **CPI**: The 45 stores are split into two distinct market clusters — 22 stores at CPI ≈ 128–140 (lower cost-of-living markets) and 23 stores at CPI ≈ 186–227 (higher cost-of-living markets), with no overlap in between.
+- **CPI**: The 45 stores are split into two distinct market clusters: 22 stores at CPI ≈ 128–140 (lower cost-of-living markets) and 23 stores at CPI ≈ 186–227 (higher cost-of-living markets), with no overlap in between.
 
 >  **Key conclusion:** External economic conditions explain very little of the performance variation across Walmart's store network. Internal factors — store size, geographic market size, local competition, and operational management, are almost certainly the primary drivers of the $264M revenue gap between top and bottom stores.
 
