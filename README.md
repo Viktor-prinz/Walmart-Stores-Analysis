@@ -105,8 +105,8 @@ All four external factors show **extremely weak correlations** with weekly sales
 
 | Limitation | Impact |
 |---|---|
-| **2010 data starts February 5** — January is missing | 2010 has 48 weeks, not 52. Raw 2010 totals are not directly comparable to 2011. All YoY comparisons use average weekly sales, not totals. |
-| **2012 data ends October 26** — November and December are missing | 2012 has 43 weeks. Q4 2012 contains only October data. Quarter-level year-over-year comparisons involving Q4 2012 were excluded from the analysis. |
+| **2010 data starts February 5:** January is missing | 2010 has 48 weeks, not 52. Raw 2010 totals are not directly comparable to 2011. All YoY comparisons use average weekly sales, not totals. |
+| **2012 data ends October 26:** November and December are missing | 2012 has 43 weeks. Q4 2012 contains only October data. Quarter-level year-over-year comparisons involving Q4 2012 were excluded from the analysis. |
 | **Thanksgiving and Christmas 2012 are absent** | Only 2 years of data exist for these holidays (vs 3 for Super Bowl and Labour Day). Holiday averages have unequal sample sizes. |
 | **No store size, location, or format data** | The dataset does not identify store type, square footage, or geographic region. The large performance gap between stores cannot be attributed to any specific structural cause from this dataset alone. |
 | **No promotion or markdown amount data** | The dataset flags holiday weeks but does not provide the actual markdown depth, promotional spend, or category-level data. The causal effect of markdowns on sales cannot be directly measured. |
