@@ -149,8 +149,10 @@ Junior Data Analyst | Co-Lead, Plasma Africa
 
 This project is part of a structured 20-project professional portfolio covering Sales & Revenue Analytics, Healthcare Analytics, HR & Workforce Analytics, Finance & Investment Analytics, and Supply Chain & Operations Analytics — built end-to-end using Excel, Power Query, SQL Server, and Power BI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0071CE?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-prince)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-041F41?style=flat&logo=github)](https://github.com/Viktor-prinz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emeka%20Victor%20Prince-0071CE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-prince)
+[![GitHub](https://img.shields.io/badge/GitHub-Viktor--prinz-041F41?style=flat&logo=github&logoColor=white)](https://github.com/Viktor-prinz)
+[![X / Twitter](https://img.shields.io/badge/X-Viktor_prinz-000000?style=flat&logo=x&logoColor=white)](https://x.com/Viktor_prinzz)
+[![Linktree](https://img.shields.io/badge/Linktree-Viktor_prinz-42e661?style=flat&logo=Linktree&logoColor=green)](https://linktr.ee/viktor_prinz?utm_source=linktree_profile_share&ltsid=76ff3855-150d-4d74-895e-87e456223fc3)
 
 ---
 
